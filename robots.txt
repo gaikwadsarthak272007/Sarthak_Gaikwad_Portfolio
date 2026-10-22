@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaikwadsarthak272007.github.io/Sarthak_Gaikwad_Portfolio/sitemap.xml
